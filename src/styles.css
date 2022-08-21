@@ -226,8 +226,8 @@ header span{
 .img-container span{
     display: flex;
     text-align: center;
-    font-size: 60px !important;
-    font-family: 'Rondal' , sans-serif;
+    font-size: 60px !important;   
+     font-family: 'RondalRegular-K7ORW';
     color: white;
 
 }
