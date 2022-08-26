@@ -444,6 +444,7 @@ header span{
         grid-auto-flow: column;
         grid-auto-columns: 75%;
         overflow-x: auto ;
+        -webkit-overflow-scrolling: touch;
         overscroll-behavior-inline: contain;
     }
     .name-tag{
